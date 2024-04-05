@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference. -->
 개인 앱 개발 프로젝트
 
 ## Getting Started
-이 프로젝트는 코드를 공유할 수 있는 커뮤니티 앱을 만들기 위한 것이다.
+이 프로젝트는 코드를 공유할 수 있는 커뮤니티 앱을 만들기 위한 것이다.  
 소셜 네트워크 방식으로 코드를 공유할 수 있는 커뮤니티 앱을 만드는 것이 목적이다. 
 
 
